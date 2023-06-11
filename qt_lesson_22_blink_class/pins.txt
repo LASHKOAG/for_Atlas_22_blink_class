@@ -1,0 +1,7 @@
+4 - white
+
+5 - red
+
+6 - blue
+
+7 - yellow
